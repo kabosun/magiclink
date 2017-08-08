@@ -1,0 +1,66 @@
+images {
+  image: "/builtins/graphics/particle_blob.png"
+}
+images {
+  image: "/assets/bg_820x1200.png"
+}
+images {
+  image: "/assets/bg_start_820x1200.png"
+}
+images {
+  image: "/assets/blue.png"
+}
+images {
+  image: "/assets/button-YES.png"
+}
+images {
+  image: "/assets/button1.png"
+}
+images {
+  image: "/assets/button_NO.png"
+}
+images {
+  image: "/assets/drop1_icon.png"
+}
+images {
+  image: "/assets/green.png"
+}
+images {
+  image: "/assets/magic-sphere_layer1.png"
+}
+images {
+  image: "/assets/magic-sphere_layer2.png"
+}
+images {
+  image: "/assets/magic-sphere_layer3.png"
+}
+images {
+  image: "/assets/magic-sphere_layer4.png"
+}
+images {
+  image: "/assets/marked.png"
+}
+images {
+  image: "/assets/orange.png"
+}
+images {
+  image: "/assets/pink.png"
+}
+images {
+  image: "/assets/pop_up_plate.png"
+}
+images {
+  image: "/assets/white_dot.png"
+}
+images {
+  image: "/assets/white_dot2.png"
+}
+images {
+  image: "/assets/yellow.png"
+}
+images {
+  image: "/main/images/logo.png"
+}
+margin: 1
+extrude_borders: 0
+inner_padding: 0
