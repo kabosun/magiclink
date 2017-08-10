@@ -61,6 +61,23 @@ images {
 images {
   image: "/main/images/logo.png"
 }
+images {
+  image: "/builtins/graphics/particle_blob.png"
+}
+animations {
+  id: "New Animation"
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 60
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "New Animation"
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 60
+  flip_horizontal: 0
+  flip_vertical: 0
+}
 margin: 1
 extrude_borders: 0
 inner_padding: 0
